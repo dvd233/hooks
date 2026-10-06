@@ -1,0 +1,23 @@
+{
+  "repository": "dvd233/hooks",
+  "repositoryId": "1352925854",
+  "ownerId": "111864431",
+  "validationRef": "refs/heads/validation/retry-disable",
+  "baseSha": "43003f3bd5e6921173cfa2a791ed9d34e5221935",
+  "sourceSha": "9543334bb37472dac56a86cfa4f14440d4743eac",
+  "sourceTree": "e041a2efe3781c0a551cfe6ce10bb6bf1a3bec1d",
+  "issue": "https://github.com/alibaba/hooks/issues/2968",
+  "lockSha256": "cb01408f8009790a3fa4b6a53b011071ac34833850870b646641c2a5b3953324",
+  "files": [
+    {
+      "path": "packages/hooks/src/useRequest/__tests__/useRetryPlugin.spec.ts",
+      "sha256": "b2d3ccccba84f4c89f655560d9d81f1cb7d09c2358ce46b8c6aef7bf0ac32461",
+      "baseBlobSha": "c37b9129c64a15c468553201d48db971bf485801"
+    },
+    {
+      "path": "packages/hooks/src/useRequest/src/plugins/useRetryPlugin.ts",
+      "sha256": "61073c1c7039add3ae8ed7dd80831c7ce0bb0190f32193f0bbbfcebc42f4f392",
+      "baseBlobSha": "16ac5f36d48454d6e0f31e27ef0172ada57a3a1f"
+    }
+  ]
+}
